@@ -1,3 +1,7 @@
 # 这是EPG订阅列表，用于生成M3U结果频道菜单信息
 # This is the EPG subscription list used to generate M3U result channel menu information
 http://e.erw.cc/e.xml.gz
+# 这是EPG订阅列表，用于生成M3U结果频道菜单信息
+# This is the EPG subscription list used to generate M3U result channel menu information
+# 原源 e.erw.cc 从 GitHub 机房不可达（502/重试耗尽），改用 fanmingming/live 每日自动生成的 e.xml（频道 id 为 CCTV1 形式，与本项目别名表可匹配）
+https://raw.githubusercontent.com/fanmingming/live/main/e.xml
